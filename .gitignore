@@ -1,0 +1,7 @@
+
+*.xml
+*.vsidx
+*.lock
+.vs/Calculadora/v17/.wsuo
+*.json
+.vs/slnx.sqlite
